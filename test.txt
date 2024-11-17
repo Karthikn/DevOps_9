@@ -1,0 +1,9 @@
+hello
+karthik
+hey
+input
+duh
+47
+input
+0
+12
