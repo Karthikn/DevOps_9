@@ -25,6 +25,6 @@ def get_task(task_id):
             return jsonify({'task': task})
     abort(404, description="Task not found")
 
-if __name__ == '__main__': #Code snippet
+if __name__ == '__main__': #Codesnippet
     app.run(debug=True) 
 
