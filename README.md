@@ -40,6 +40,7 @@ Adjust the script and parameters based on the specific functionality you're test
 - **Git and GitHub Integration**: Learn how to effectively manage a project with Git and push changes to GitHub.
 - **Python Scripting**: Develop Python scripts to interact with APIs, read from files, and automate simple tasks.
 - **Basic Application Development**: Work on small Python-based applications that integrate external data sources or perform file-based operations.
+- **Bash Scripting**: Simple scripts to check whether the code passess certain testcases.
 
 ## Contributing
 
